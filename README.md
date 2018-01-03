@@ -1,1 +1,1 @@
-# myFirstModule
+openmrs-module-myFirstModule
